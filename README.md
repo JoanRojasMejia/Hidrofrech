@@ -1,2 +1,2 @@
 # Hidrofrech
-Es una tienda de ropa creada desde cero
+Tienda de ropa para personas con sudoracion excesiva
